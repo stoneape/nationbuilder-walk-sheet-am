@@ -1,2 +1,2 @@
-# nationbuilder-print-sheets
-NationBuilder Print Sheet Templates
+# NationBuilder Walk Sheet - AM
+NationBuilder Walk Sheet template code and settings
